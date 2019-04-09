@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/fooddetail/detail.jsp=UTF-8
+encoding//WebContent/foodlist/index.jsp=UTF-8
+encoding//WebContent/main/index.jsp=UTF-8
+encoding//src/mvc/dao/FoodDAOImpl.java=UTF-8
